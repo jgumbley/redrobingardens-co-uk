@@ -1,0 +1,20 @@
+body {
+	text-align:   center;
+	font-family: 	Georgia;
+	font-size:	16px;
+	font-weight:	lighter;
+	TEXT-DECORATION: none;
+}
+
+a:link 	{ color: 	gray; }
+a:visited 	{ color: 	gray; }
+a:hover	{ color: 	black; }
+
+
+
+
+h2 {
+
+	font-family: 	Georgia;
+	font-size:	16px;
+}
